@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="container">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">City Global</h3>
+            <h3 className="text-xl font-bold mb-4">City Global Digital Studio</h3>
             <p className="text-gray-400">Capturing timeless moments with breathtaking imagery and artistic excellence.</p>
           </div>
           <div>
@@ -23,7 +23,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-          <p>&copy; 2026 City Global Photography. All rights reserved.</p>
+          <p>&copy; 2026 City Global Digital Studio. All rights reserved.</p>
         </div>
       </div>
     </footer>

@@ -1,9 +1,9 @@
 {
-  "name": "city-global-photography",
+  "name": "city-global-digital-studio",
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://your-username.github.io/city-global",
+  "homepage": "https://your-username.github.io/city-global-digital-studio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

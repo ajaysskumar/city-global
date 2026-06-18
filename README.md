@@ -1,4 +1,4 @@
-# City Global - Photography Portfolio
+# City Global Digital Studio - Photography Portfolio
 
 A modern photography portfolio website built with React and Vite, designed to showcase wedding and event photography services.
 
@@ -23,8 +23,8 @@ A modern photography portfolio website built with React and Vite, designed to sh
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/city-global.git
-cd city-global
+git clone https://github.com/your-username/city-global-digital-studio.git
+cd city-global-digital-studio
 ```
 
 2. Install dependencies:
@@ -52,7 +52,7 @@ The site will be available at `http://localhost:5173`
 
 1. Update the `homepage` in `package.json`:
 ```json
-"homepage": "https://your-username.github.io/city-global"
+"homepage": "https://your-username.github.io/city-global-digital-studio"
 ```
 
 2. Make sure you have `gh-pages` installed (included in dependencies)
@@ -64,10 +64,12 @@ npm run deploy
 
 This will build the project and push it to the `gh-pages` branch. Enable GitHub Pages in your repository settings to serve from the `gh-pages` branch.
 
+Your site will be available at: `https://your-username.github.io/city-global-digital-studio/`
+
 ## Project Structure
 
 ```
-city-global/
+city-global-digital-studio/
 ├── src/
 │   ├── components/
 │   │   ├── Header.jsx
@@ -112,6 +114,10 @@ Modify `tailwind.config.js` to customize colors, fonts, and other design tokens.
 ## License
 
 MIT License - feel free to use this for your portfolio!
+
+---
+
+**City Global Digital Studio** - Premium Photography Services
 
 ## Support
 

@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <header className="fixed w-full bg-white shadow-sm z-50">
       <nav className="container flex items-center justify-between py-4">
-        <div className="text-2xl font-bold text-gray-900">City Global</div>
+        <div className="text-2xl font-bold text-gray-900">City Global Digital Studio</div>
         
         <button 
           className="md:hidden text-gray-600"

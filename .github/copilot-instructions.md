@@ -1,4 +1,4 @@
-# City Global - Photography Portfolio Website
+# City Global Digital Studio - Photography Portfolio Website
 
 A React + Vite portfolio website for photography services, deployable to GitHub Pages.
 
