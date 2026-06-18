@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://your-username.github.io/city-global-digital-studio",
+  "homepage": "https://ajaysskumar.github.io/city-global",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
