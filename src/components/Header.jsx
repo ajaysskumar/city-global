@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Link } from 'react-router-dom'
 
 export default function Header() {
   const [isOpen, setIsOpen] = useState(false)
@@ -6,7 +7,7 @@ export default function Header() {
   return (
     <header className="fixed w-full bg-white shadow-sm z-50">
       <nav className="container flex items-center justify-between py-4">
-        <div className="text-2xl font-bold text-gray-900">City Global Digital Studio</div>
+        <Link to="/" className="text-2xl font-bold text-gray-900 hover:text-gray-700">City Global Digital Studio</Link>
         
         <button 
           className="md:hidden text-gray-600"
